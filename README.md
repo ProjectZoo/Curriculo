@@ -1,2 +1,3 @@
 # Curriculo
-https://projectzoo.github.io./Curriculo/
+https://projectzoo.github.io/Curriculo/
+Template Original
